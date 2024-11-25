@@ -23,11 +23,11 @@ I'm not working actively in a project right now, but trust me, that will change.
 
 <!-- icons with padding -->
 
-[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter.svg (twitter icon with padding)
-[2.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitch.svg (twitch icon with padding)
-[3.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/discord.svg (discord plus icon with padding)
-[4.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/youtube.svg (youtube icon with padding)
-[5.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/tiktok.svg (tiktok icon with padding)
+[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/colored/light/twitter.svg (twitter icon with padding)
+[2.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/colored/light/twitch.svg (twitch icon with padding)
+[3.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/colored/light/discord.svg (discord plus icon with padding)
+[4.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/colored/light/youtube.svg (youtube icon with padding)
+[5.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/colored/light/tiktok.svg (tiktok icon with padding)
 
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
