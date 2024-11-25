@@ -2,7 +2,7 @@
 
 My name is Anventec but you can call me Anven, I'm a computer science student in Venezuela who loves coding, music and videogames. My favorite franchises are Halo, Half-Life and Portal. 🎮
 
-## Knowledge
+## Knowledge 🧠
 
 For my projects I use JavaScript with:
 
