@@ -15,11 +15,15 @@ For my projects I use JavaScript with:
 - MongoDB
 - Node
 
-## Projects :building_construction:
+[![alt text][20.1]]
 
-I'm not working actively in a project right now, but trust me, that will change. :sob:
+[20.1]: https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png
 
-## Socials
+## Projects 🏗️
+
+I'm not working actively in a project right now, but trust me, that will change. 😭
+
+## Socials 🐦
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
@@ -29,11 +33,11 @@ I'm not working actively in a project right now, but trust me, that will change.
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
-[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter.svg (twitter icon with padding)
-[2.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitch.svg (twitch icon with padding)
-[3.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg (discord plus icon with padding)
-[4.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg (youtube icon with padding)
-[5.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/tiktok.svg (tiktok icon with padding)
+[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter.svg
+[2.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitch.svg
+[3.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg
+[4.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg
+[5.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/tiktok.svg
 
 [1]: https://x.com/anventec_
 [2]: https://twitch.tv/anventec
