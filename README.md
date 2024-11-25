@@ -32,10 +32,10 @@ I'm not working actively in a project right now, but trust me, that will change.
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: http://x.com/anventec_
-[2]: http://twitch.tv/anventec
+[1]: https://x.com/anventec_
+[2]: https://twitch.tv/anventec
 [3]: https://discord.com/users/715373744515710997
-[4]: http://youtube.com/@anventec
-[5]: http://tiktok.com/@anventec
+[4]: https://youtube.com/@anventec
+[5]: https://tiktok.com/@anventec
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
