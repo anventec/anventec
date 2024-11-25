@@ -16,7 +16,6 @@ I'm not working actively in a project right now, but trust me, that will change.
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
-[![alt text][6.1]][6]
 
 
 <!-- links to social media icons -->
