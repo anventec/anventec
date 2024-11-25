@@ -8,4 +8,4 @@ I'm not working actively in a project right now, but trust me, that will change.
 
 ## Socials 
 
-![small-light-discord]([small/light/discord.svg](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/discord.svg))
+![small-light-discord](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/small/light/discord.svg)
