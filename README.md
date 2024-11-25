@@ -29,11 +29,11 @@ I'm not working actively in a project right now, but trust me, that will change.
 [![alt text][4.1]][4]
 [![alt text][5.1]][5]
 
-[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter.svg (twitter icon with padding)
-[2.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitch.svg (twitch icon with padding)
-[3.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/discord.svg (discord plus icon with padding)
-[4.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/youtube.svg (youtube icon with padding)
-[5.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/tiktok.svg (tiktok icon with padding)
+[1.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitter.svg (twitter icon with padding)
+[2.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/twitch.svg (twitch icon with padding)
+[3.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/discord.svg (discord plus icon with padding)
+[4.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/youtube.svg (youtube icon with padding)
+[5.1]: https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/light/tiktok.svg (tiktok icon with padding)
 
 [1]: https://x.com/anventec_
 [2]: https://twitch.tv/anventec
